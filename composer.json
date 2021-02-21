@@ -1,0 +1,21 @@
+{
+    "name": "mbrianp/view",
+    "description": "A view component",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian",
+            "email": "mbrianp05@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "mbrianp/dic": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mbrianp\\FuncCollection\\View\\": ""
+        }
+    }
+}
